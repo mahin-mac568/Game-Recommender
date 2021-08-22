@@ -1,8 +1,7 @@
-# Data extracted and cleaned by Mahin Chowdhury (mac568@cornell.edu)
-
 import pandas as pd
 import re
 import csv
+
 
 mgs = pd.read_csv(r'data/mobile-games/googleplaystore.csv')
 
